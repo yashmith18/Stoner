@@ -1,0 +1,41 @@
+header{
+    font-style: italic;
+    font-size: 300%;
+    text-align: center;
+    color: #151515;
+    background-color:#A9A9A9 ;
+}
+body{
+    background-color: #151515;
+}
+h1{
+    color: #151515;
+}
+.div1{
+    text-align: center;
+    background-color: darkgray;
+}
+.div2{
+    color: white;
+    display : inline-block;
+}
+.button{
+    text-align: right;
+    font-size: 200%;
+    border : solid ;
+    border-radius: 50px;
+    padding : 10px 20px;
+    transition-duration: 200ms;
+}
+.button:hover{
+    background-color: blue;
+    color : white;
+}
+.div3{
+    color: white;
+    display : inline-block;
+}
+.div4{
+    color: white;
+    display : inline-block;
+}
